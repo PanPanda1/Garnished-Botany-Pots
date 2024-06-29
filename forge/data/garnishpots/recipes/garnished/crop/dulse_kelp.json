@@ -1,0 +1,24 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished:dulse_kelp"
+  },
+  "categories": [
+    "water"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "garnished:dulse_kelp",
+    "properties": {
+      "age": 25
+    }
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished:dulse_kelp"
+      }
+    }
+  ]
+}

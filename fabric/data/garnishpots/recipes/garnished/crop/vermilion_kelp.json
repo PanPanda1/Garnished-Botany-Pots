@@ -1,0 +1,24 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished:vermilion_kelp"
+  },
+  "categories": [
+    "water"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "garnished:vermilion_kelp",
+    "properties": {
+      "age": 25
+    }
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished:vermilion_kelp"
+      }
+    }
+  ]
+}
