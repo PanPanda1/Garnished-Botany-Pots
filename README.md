@@ -12,7 +12,7 @@
         width="200"
     ></a>
     <br>
-<a href="https://www.curseforge.com/minecraft/mc-mods/garnished-botany-pots"><img src="https://cf.way2muchnoise.eu/short_1048415.svg" alt="CF"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/garnished-botany-pots"><img src="https://cf.way2muchnoise.eu/1048431.svg" alt="CF"></a>
 <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/dt/garnished-botany-pots?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
 
 ### Garnished Botany Pots adds complete support between [Create: Garnished](https://modrinth.com/mod/create-garnished)'s Plants & Nuts, and Botany Pots (from the mod [Botany Pots](https://modrinth.com/mod/botany-pots))
@@ -20,7 +20,7 @@
 <h2> </h2>
 
 ### Supported Plants & Nuts:
-  As of version 2.1.0, Garnished Botany Pots supports the ability to grow all of the following in Botany Pots:
+  As of version 2.2.0, Garnished Botany Pots supports the ability to grow all of the following in Botany Pots:
 - All 9 Nut Types
 - Soul Roots
 - Small Chorus Plants
